@@ -22,4 +22,4 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!
 
 ## Sobre
-- [Currículo e Projetos](https://williamnani.github.io/MeuPortfolio/)
+- [Portfólio](https://williamnani.github.io/MeuPortfolio/)
